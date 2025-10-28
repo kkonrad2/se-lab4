@@ -1,0 +1,14 @@
+#PrimaryLast Primary branch
+GT4500,2,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+
+#PrimaryLast Primary branch empty
+GT4500,1,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+
+#PrimaryLast Secondary branch
+GT4500,1,0,1,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE

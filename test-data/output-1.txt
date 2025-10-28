@@ -1,16 +1,11 @@
+#!PrimaryLast Primary branch
 SUCCESS
 SUCCESS
 
+#!PrimaryLast Secondary branch
 SUCCESS
 SUCCESS
 
+#!PrimaryLast Secondary branch empty
 SUCCESS
-SUCCESS
-SUCCESS
-
-SUCCESS
-SUCCESS
-SUCCESS
-
-SUCCESS
-SUCCESS
+FAIL

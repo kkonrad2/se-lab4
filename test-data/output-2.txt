@@ -1,0 +1,14 @@
+#PrimaryLast Primary branch
+SUCCESS
+SUCCESS
+SUCCESS
+
+#PrimaryLast Primary branch empty
+SUCCESS
+SUCCESS
+FAIL
+
+#PrimaryLast Secondary branch
+SUCCESS
+SUCCESS
+SUCCESS
