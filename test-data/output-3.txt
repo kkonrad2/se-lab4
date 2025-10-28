@@ -1,0 +1,11 @@
+#ALL Success
+SUCCESS
+SUCCESS
+
+#ALL Fail
+SUCCESS
+FAIL
+
+#ALL Fail-one
+SUCCESS
+SUCCESS
